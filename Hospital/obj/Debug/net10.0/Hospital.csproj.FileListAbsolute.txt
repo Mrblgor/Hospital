@@ -1,0 +1,15 @@
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.AssemblyInfo.cs
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\bin\Debug\net10.0\Hospital.exe
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\bin\Debug\net10.0\Hospital.deps.json
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\bin\Debug\net10.0\Hospital.runtimeconfig.json
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\bin\Debug\net10.0\Hospital.dll
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\bin\Debug\net10.0\Hospital.pdb
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.dll
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\refint\Hospital.dll
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.pdb
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.genruntimeconfig.cache
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\ref\Hospital.dll
+C:\Users\igorb\OneDrive\Desktop\вуз\2_курс\Технологии_програмирования_C#\Hospital\Hospital\obj\Debug\net10.0\Hospital.csproj.Up2Date
