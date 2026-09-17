@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|c:\\users\\igorb\\onedrive\\desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_c#\\hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|c:\\users\\igorb\\onedrive\\desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_c#\\hospital\\hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|solutionrelative:hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|c:\\users\\igorb\\onedrive\\desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_c#\\hospital\\hospital\\csvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|solutionrelative:hospital\\csvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|c:\\users\\igorb\\onedrive\\desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_c#\\hospital\\hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|solutionrelative:hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|c:\\users\\igorb\\onedrive\\desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_c#\\hospital\\hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|solutionrelative:hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|c:\\users\\igorb\\onedrive\\desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_c#\\hospital\\hospital\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|solutionrelative:hospital\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Program.cs",
+              "RelativeToolTip": "Hospital\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T12:36:21.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Department.cs",
+              "RelativeDocumentMoniker": "Hospital\\Department.cs",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Department.cs",
+              "RelativeToolTip": "Hospital\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:47:23.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital\\Doctor.cs",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Doctor.cs",
+              "RelativeToolTip": "Hospital\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:47:59.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital\\Patient.cs",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\Patient.cs",
+              "RelativeToolTip": "Hospital\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:48:28.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Hospital\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\InMemoryRepository.cs",
+              "RelativeToolTip": "Hospital\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T16:01:39.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvRepository.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\CsvRepository.cs",
+              "RelativeDocumentMoniker": "Hospital\\CsvRepository.cs",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\Desktop\\\u0432\u0443\u0437\\2_\u043A\u0443\u0440\u0441\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F_C#\\Hospital\\Hospital\\CsvRepository.cs",
+              "RelativeToolTip": "Hospital\\CsvRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T16:02:54.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
