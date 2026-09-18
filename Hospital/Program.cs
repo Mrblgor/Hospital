@@ -1,10 +1,16 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Hospital;
 
+/// <summary>
+/// Точка входа в программу, демонстрирующую работу с больничными данными.
+/// </summary>
 internal class Program
 {
+    /// <summary>
+    /// Главный метод программы. Запрашивает источник данных и выполняет демонстрационные запросы.
+    /// </summary>
     static void Main()
     {
         List<Department> departments;
@@ -19,7 +25,7 @@ internal class Program
             InMemoryRepository mem = new InMemoryRepository();
             departments = mem.GetDepartments();
             doctors = mem.GetDoctors();
-            patients = mem.Patients();
+            patients = mem.GetPatients();
         }
         else if (choice == "2")
         {
@@ -75,6 +81,12 @@ internal class Program
             Console.WriteLine($"Найден: {notFound.GetInfo()}");
     }
 
+    /// <summary>
+    /// Находит лечащего врача для указанного пациента.
+    /// </summary>
+    /// <param name="patient">Пациент, для которого ищется врач.</param>
+    /// <param name="doctors">Список врачей.</param>
+    /// <returns>Объект <see cref="Doctor"/> или <c>null</c>, если врач не найден.</returns>
     static Doctor FindDoctor(Patient patient, List<Doctor> doctors)
     {
         if (patient == null) return null;
@@ -85,6 +97,12 @@ internal class Program
         return null;
     }
 
+    /// <summary>
+    /// Находит отделение, в котором работает указанный врач.
+    /// </summary>
+    /// <param name="doctor">Врач, для которого ищется отделение.</param>
+    /// <param name="departments">Список отделений.</param>
+    /// <returns>Объект <see cref="Department"/> или <c>null</c>, если отделение не найдено.</returns>
     static Department FindDepartment(Doctor doctor, List<Department> departments)
     {
         if (doctor == null) return null;
@@ -95,6 +113,11 @@ internal class Program
         return null;
     }
 
+    /// <summary>
+    /// Вычисляет средний возраст пациентов.
+    /// </summary>
+    /// <param name="patients">Список пациентов.</param>
+    /// <returns>Средний возраст или 0, если список пуст.</returns>
     static double GetAverageAge(List<Patient> patients)
     {
         if (patients.Count == 0) return 0;
@@ -106,6 +129,11 @@ internal class Program
         return (double)sum / patients.Count;
     }
 
+    /// <summary>
+    /// Подсчитывает количество пациентов по каждому диагнозу.
+    /// </summary>
+    /// <param name="patients">Список пациентов.</param>
+    /// <returns>Словарь, где ключ — диагноз, значение — количество пациентов.</returns>
     static Dictionary<string, int> CountPatientsByDiagnosis(List<Patient> patients)
     {
         Dictionary<string, int> result = new Dictionary<string, int>();
@@ -119,6 +147,12 @@ internal class Program
         return result;
     }
 
+    /// <summary>
+    /// Выводит в консоль информацию обо всех пациентах с указанием их врача и отделения.
+    /// </summary>
+    /// <param name="patients">Список пациентов.</param>
+    /// <param name="doctors">Список врачей.</param>
+    /// <param name="departments">Список отделений.</param>
     static void PrintAllPatients(List<Patient> patients, List<Doctor> doctors, List<Department> departments)
     {
         foreach (Patient p in patients)
